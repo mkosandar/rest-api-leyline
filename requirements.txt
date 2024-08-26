@@ -1,0 +1,11 @@
+psycopg2-binary
+flask
+flask_sqlalchemy
+fastapi==0.100.0
+uvicorn==0.22.0
+sqlalchemy==2.0.0
+alembic==1.11.1
+prometheus-client==0.16.0
+psycopg2-binary==2.9.8
+pydantic==2.1.1
+prometheus_flask_exporter
