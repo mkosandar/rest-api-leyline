@@ -12,7 +12,7 @@ pipeline {
     DOCKERHUB_CREDENTIALS= credentials('dockerHub-login')
     }
     stages {
-        stage("docker-publish") {
+        stage("build & publish") {
             steps {
                 script{
                     sh """
