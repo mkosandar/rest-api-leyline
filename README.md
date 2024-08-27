@@ -1,6 +1,7 @@
 # rest-api-leyline
 # check the images folder for output 
 
+#deploy using docker-compose
 1. Clone the Repository
 
 ```
