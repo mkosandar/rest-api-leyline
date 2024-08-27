@@ -36,3 +36,5 @@ To stop and remove the containers, run:
 ```
 docker-compose down
 ```
+
+#if you want to deploy on k8s check the jenkinsfile by triggering jenkinsfile you can run our application on k8s 
