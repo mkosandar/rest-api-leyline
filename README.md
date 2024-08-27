@@ -18,6 +18,7 @@ docker-compose up -d --build
 ```
 4. Access the Application
 API: Open your browser and go to
+```
 http://localhost:3000.
 ```
 Prometheus Metrics: Visit
