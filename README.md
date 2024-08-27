@@ -2,10 +2,10 @@
 
 1. Clone the Repository
 
-'''
+"""
 git clone https://github.com/yourusername/myapp.git
 cd myapp
-'''
+"""
 3. Set Up Environment Variables
 Create a .env file in the root directory (if it doesn’t exist) and add your environment variables:
 
