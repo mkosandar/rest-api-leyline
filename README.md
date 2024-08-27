@@ -4,8 +4,8 @@
 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/myapp.git
-cd myapp
+git clone https://github.com/mkosandar/rest-api-leyline.git
+cd rest-api-leyline
 ```
 3. Set Up Environment Variables
 Create a .env file in the root directory (if it doesn’t exist) and add your environment variables:
